@@ -1,0 +1,69 @@
+.phone_number_container {
+    text-align: left;
+    padding: 42px 34px 21px 82px;
+}
+
+.phone_number_text_container {
+    width: 59%;
+    margin-top: -29px;
+}
+
+.phone_number_text_container p {
+    font-weight: 800;
+    font-size: 43px;
+}
+
+.get_otp_container {
+    margin-bottom: -16px;
+}
+
+.get_otp_container p {
+    font-weight: 500;
+    font-size: 21px;
+}
+
+.phone_number_input_container {
+    margin-top: -22px;
+}
+
+.country_code_input {
+    padding: 10px;
+    width: 7%;
+    border-radius: 8px;
+    border: 1px solid #747d8c;
+    font-size: 25px;
+    font-weight: 900
+}
+
+.ph_number_input {
+    padding: 10px;
+    margin-left: 14px;
+    border-radius: 8px;
+    border: 1px solid #747d8c;
+    font-size: 25px;
+    font-weight: 900;
+    width: 30%;
+    padding-left: 27px;
+}
+
+/* .ph_number_input p {
+    color: red;
+    font-size: 12px;
+    margin-left: 63px;
+    margin-top: 12px;
+    font-weight: 700;
+} */
+
+.ph_num_btn_container {
+    margin-top: 27px;
+}
+
+.ph_num_btn_container button {
+    padding: 11px 20px;
+    border-radius: 18px;
+    font-size: 22px;
+    border: none;
+    background-color: #F9CB10;
+    font-weight: 700;
+    outline: none;
+}

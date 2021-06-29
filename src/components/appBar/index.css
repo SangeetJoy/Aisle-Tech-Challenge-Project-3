@@ -1,0 +1,58 @@
+.appbar_container {
+    display: flex;
+    justify-content: space-evenly;
+    width: 40%;
+    margin: auto;
+    border-bottom: 1px #747d8c solid;
+    margin-bottom: 32px;
+    padding-bottom: 14px;
+    margin-top: 33px;
+}
+
+.appbar_container a {
+    text-decoration: none;
+    color: black;
+}
+
+.image1_container {
+    background-image: url("../../assets/discover1@3x.png");
+    background-size: contain;
+    width: 26px;
+    height: 27px;
+}
+.image2_container {
+    background-image: url("../../assets/notes1@2x.png");
+    background-size: contain;
+    width: 31px;
+    height: 22px;
+    margin-top: 1px;
+}
+.image3_container {
+    background-image: url("../../assets/matches1@3x.png");
+    background-size: contain;
+    width: 35px;
+    height: 22px;
+    margin-top: 1px;
+}
+.image4_container {
+    background-image: url("../../assets/profile1@2x.png");
+    background-size: cover;
+    width: 26px;
+    height: 27px;
+}
+.discover_text {
+margin-left: -17px;
+}
+
+.notes_text {
+margin-left: -6px;
+margin-top: 4px;
+}
+.matches_text {
+margin-top: 4px;
+margin-left: -10px;
+}
+.profile_text {
+margin-left: -8px;
+margin-top: 1px;
+}

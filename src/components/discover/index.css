@@ -1,0 +1,127 @@
+.main_header_text {
+    font-weight: 800;
+    font-size: 34px;
+}
+
+.sub_header_text {
+    font-weight: 400;
+    font-size: 26px;
+    margin-top: 13px;
+}
+
+.image_container {
+    background-image: url("../../assets/photo_1.png");
+    background-size: cover;
+    width: 42rem;
+    height: 42rem;
+    margin-top: 29px;
+    position: relative;
+}
+
+.top_img_text_container {
+    position: absolute;
+    bottom: 58px;
+    color: #ffffff;
+    text-align: left;
+    right: 59rem;
+}
+
+.top_img_main_text {
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.top_img_sub_text {
+    font-size: 18px;
+}
+
+.middle_section_container {
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+
+.middle_main_text {
+    font-size: 39px;
+    font-weight: 800;
+}
+
+.middle_sub_text {
+    width: 41%;
+    color: grey;
+    font-weight: 500;
+    margin-top: 9px;
+    font-size: 20px;
+}
+
+.middle_text_container {
+    text-align: left;
+    width: 75%;
+}
+
+.middle_section_container button {
+    padding: 11px 20px;
+    border-radius: 57px;
+    font-size: 25px;
+    border: none;
+    background-color: #F9CB10;
+    font-weight: 700;
+    outline: none;
+    height: 66px;
+    width: 165px;
+    margin-top: 29px;
+}
+
+.middle_section_container button p {
+    margin-top: 7px;
+}
+
+.bottom_image_container {
+    display: flex;
+    margin-top: 15px;
+    justify-content: space-between;
+    position: relative;
+}
+.bottom_img_1_container {
+    overflow: hidden;
+    border-radius: 26px;
+}
+.bottom_img_2_container {
+    overflow: hidden;
+    border-radius: 26px;
+}
+.bottom_img_1 {
+background-image: url("../../assets//photo_2.png");
+background-position: bottom;
+background-repeat: no-repeat;
+background-size: cover;
+width: 20rem;
+height: 30rem;
+filter: blur(17px);
+}
+
+.bottom_img_2 {
+    background-image: url("../../assets//photo_3.png");
+    background-size: cover;
+width: 21rem;
+height: 30rem;
+filter: blur(17px);
+}
+
+.bottom_img_1_text {
+    font-size: 28px;
+    position: absolute;
+    font-weight: 900;
+    bottom: 27px;
+    left: 25px;
+    color: white;
+}
+
+.bottom_img_2_text {
+    font-size: 28px;
+    position: absolute;
+    font-weight: 900;
+    bottom: 27px;
+    left: 23rem;
+    color: white;
+}
