@@ -4,6 +4,12 @@ How to Run the App -
 2. run - npm install
 3. run - npm start
 
+Tech used - 
+
+1.axios
+2.material ui - for spinner
+3.create-react-app package
+
 Otp Screen - 
 
 ![image](https://user-images.githubusercontent.com/46918492/123850796-11811400-d938-11eb-989e-61b954cf4a3e.png)
