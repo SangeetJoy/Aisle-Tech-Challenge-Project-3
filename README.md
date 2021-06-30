@@ -6,9 +6,9 @@ How to Run the App -
 
 Tech used - 
 
-1.axios
-2.material ui - for spinner
-3.create-react-app package
+1. axios
+2. material ui - for spinner
+3. create-react-app package
 
 Otp Screen - 
 
